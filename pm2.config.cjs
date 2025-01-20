@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'XLICON-BOT',
+      name: 'GETSUGA-TENSHOU',
       script: 'index.js',
       interpreter: 'node',
       interpreter_args: '--experimental-modules',
